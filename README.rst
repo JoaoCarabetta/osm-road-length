@@ -15,7 +15,10 @@ OSM Road Length
    :target: https://pepy.tech/project/osm-road-length
 .. |Maintenance yes| image:: https://img.shields.io/badge/Maintained%3F-yes-green.svg
    :target: https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity
-   
+
+DISCONTINUED
+USE OSMPY
+https://github.com/JoaoCarabetta/osmpy
 
 A tool to get the highway length from Open Street Maps of a region using Python using Overpass Turbo API.
 
