@@ -15,7 +15,7 @@ with open("HISTORY.rst") as history_file:
 requirements = [
     "shapely==1.7.0",
     "geojson==2.5.0",
-    "requests==2.23.0",
+    "requests==2.31.0",
     "retry",
     "pyproj",
     "pandas",
